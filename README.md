@@ -1,6 +1,5 @@
-## Hi there 👋
+![Header](./Thierry canoco - e.png)
 
-- 🔭 Hoje trabalho como Engenheiro Civil
-- 🌱 Estudando Python e Ciências de Dados
-- 📫 Contate-me no e-mail: tcanoco@gmail.com
-
+<p align="center">
+<a href="www.linkedin.com/in/thierrycanoco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thierrycanoco" height="30" width="40" /></a>
+</p>
